@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/19ab1970bbdf3b967d63349f52d7967b0e7a39860a4e463f2f4771a165aa543e/download"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SynvextiaHub/Loader/main/Syn"))()
